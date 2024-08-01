@@ -1,4 +1,4 @@
-# yudada-frontend
+# dati-frontend
 
 ## Project setup
 ```
